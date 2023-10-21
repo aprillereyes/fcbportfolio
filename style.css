@@ -30,7 +30,7 @@ body {
 }
 
 #landing {
-	height: : 80vh;
+	height: 80vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
